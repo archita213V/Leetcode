@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/archita213V/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/archita213V/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0344-reverse-string](https://github.com/archita213V/Leetcode/tree/master/0344-reverse-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/archita213V/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/archita213V/Leetcode/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
