@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/archita213V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/archita213V/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/archita213V/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Depth-First Search
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/archita213V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/archita213V/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/archita213V/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Binary Tree
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/archita213V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/archita213V/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0897-increasing-order-search-tree](https://github.com/archita213V/Leetcode/tree/master/0897-increasing-order-search-tree) |
 ## Breadth-First Search
 |  |
@@ -74,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0617-merge-two-binary-trees](https://github.com/archita213V/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Math
 |  |
 | ------- |
