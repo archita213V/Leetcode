@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/archita213V/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/archita213V/Leetcode/tree/master/0724-find-pivot-index) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/archita213V/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3875-construct-uniform-parity-array-i](https://github.com/archita213V/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0523-continuous-subarray-sum) |
+| [3875-construct-uniform-parity-array-i](https://github.com/archita213V/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Pigeonhole Principle
 |  |
 | ------- |
