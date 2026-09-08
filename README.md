@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/archita213V/Leetcode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archita213V/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Tree
@@ -104,10 +105,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/archita213V/Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/archita213V/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/archita213V/Leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/archita213V/Leetcode/tree/master/0344-reverse-string) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/archita213V/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0897-increasing-order-search-tree](https://github.com/archita213V/Leetcode/tree/master/0897-increasing-order-search-tree) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/archita213V/Leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
