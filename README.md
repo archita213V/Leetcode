@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/archita213V/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/archita213V/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archita213V/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/archita213V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0523-continuous-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archita213V/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/archita213V/Leetcode/tree/master/0724-find-pivot-index) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/archita213V/Leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0209-minimum-size-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/archita213V/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0669-trim-a-binary-search-tree](https://github.com/archita213V/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/archita213V/Leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/archita213V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archita213V/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 <!---LeetCode Topics End-->
