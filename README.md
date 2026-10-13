@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/archita213V/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/archita213V/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0547-number-of-provinces](https://github.com/archita213V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/archita213V/Leetcode/tree/master/0617-merge-two-binary-trees) |
 | [0669-trim-a-binary-search-tree](https://github.com/archita213V/Leetcode/tree/master/0669-trim-a-binary-search-tree) |
 | [0897-increasing-order-search-tree](https://github.com/archita213V/Leetcode/tree/master/0897-increasing-order-search-tree) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/archita213V/Leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/archita213V/Leetcode/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/archita213V/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/archita213V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/archita213V/Leetcode/tree/master/0617-merge-two-binary-trees) |
 ## Math
 |  |
@@ -163,4 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/archita213V/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archita213V/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/archita213V/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/archita213V/Leetcode/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/archita213V/Leetcode/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
