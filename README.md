@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/archita213V/Leetcode/tree/master/0242-valid-anagram) |
 | [0523-continuous-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/archita213V/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/archita213V/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 ## Tree
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0328-odd-even-linked-list](https://github.com/archita213V/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/archita213V/Leetcode/tree/master/0382-linked-list-random-node) |
 | [0876-middle-of-the-linked-list](https://github.com/archita213V/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/archita213V/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/archita213V/Leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Sliding Window
 |  |
