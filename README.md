@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/archita213V/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/archita213V/Leetcode/tree/master/0144-binary-tree-preorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/archita213V/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0897-increasing-order-search-tree](https://github.com/archita213V/Leetcode/tree/master/0897-increasing-order-search-tree) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/archita213V/Leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Monotonic Stack
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0382-linked-list-random-node](https://github.com/archita213V/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/archita213V/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0523-continuous-subarray-sum](https://github.com/archita213V/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [3875-construct-uniform-parity-array-i](https://github.com/archita213V/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 ## Pigeonhole Principle
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/archita213V/Leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/archita213V/Leetcode/tree/master/0328-odd-even-linked-list) |
 | [0382-linked-list-random-node](https://github.com/archita213V/Leetcode/tree/master/0382-linked-list-random-node) |
+| [0445-add-two-numbers-ii](https://github.com/archita213V/Leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/archita213V/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1171-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/archita213V/Leetcode/tree/master/1171-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1669-merge-in-between-linked-lists](https://github.com/archita213V/Leetcode/tree/master/1669-merge-in-between-linked-lists) |
