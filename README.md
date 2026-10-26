@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/archita213V/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/archita213V/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/archita213V/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/archita213V/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/archita213V/Leetcode/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/archita213V/Leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/archita213V/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/archita213V/Leetcode/tree/master/0463-island-perimeter) |
 | [0547-number-of-provinces](https://github.com/archita213V/Leetcode/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/archita213V/Leetcode/tree/master/0617-merge-two-binary-trees) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/archita213V/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Math
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/archita213V/Leetcode/tree/master/0463-island-perimeter) |
+| [1091-shortest-path-in-binary-matrix](https://github.com/archita213V/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
